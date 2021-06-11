@@ -1,0 +1,39 @@
+2021-06-12 03:23:32.497 [main] INFO  jdk.jfr.internal.tool.Main - entered to the method ------------ 
+2021-06-12 03:25:21.462 [main] INFO  jdk.jfr.internal.tool.Main - entered to the method ------------ 
+2021-06-12 03:25:21.464 [main] DEBUG jdk.jfr.internal.tool.Main - entered to the method ------------ 
+2021-06-12 03:25:57.665 [main] INFO  jdk.jfr.internal.tool.Main - entered to the method ------------ 
+2021-06-12 03:25:57.668 [main] DEBUG jdk.jfr.internal.tool.Main - entered to the method ------------ 
+2021-06-12 03:32:31.062 [main] INFO  com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
+2021-06-12 03:32:31.064 [main] DEBUG com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
+2021-06-12 03:33:05.629 [main] INFO  com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
+2021-06-12 03:33:05.632 [main] DEBUG com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
+2021-06-12 03:33:49.835 [main] INFO  com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
+2021-06-12 03:33:49.838 [main] DEBUG com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
+2021-06-12 03:33:49.842 [main] INFO  com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
+2021-06-12 03:33:49.842 [main] DEBUG com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
+2021-06-12 03:34:00.801 [main] INFO  com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
+2021-06-12 03:34:00.803 [main] DEBUG com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
+2021-06-12 03:34:19.882 [main] INFO  com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
+2021-06-12 03:34:40.433 [main] DEBUG com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
+2021-06-12 03:36:05.373 [main] INFO  com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
+2021-06-12 03:36:05.376 [main] DEBUG com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
+2021-06-12 03:36:05.380 [main] INFO  com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
+2021-06-12 03:36:05.380 [main] DEBUG com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
+2021-06-12 03:39:27.668 [main] INFO  com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
+2021-06-12 03:39:27.671 [main] DEBUG com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
+2021-06-12 03:39:27.674 [main] INFO  com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
+2021-06-12 03:39:27.674 [main] DEBUG com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
+2021-06-12 03:46:21.571 [main] DEBUG com.msc.ucsc.readDefinitionFile - Entered to the method readFile() 
+2021-06-12 03:46:21.573 [main] DEBUG com.msc.ucsc.readDefinitionFile - Entered try catch 
+2021-06-12 03:46:21.576 [main] DEBUG com.msc.ucsc.readDefinitionFile - Entered for loop 
+2021-06-12 03:46:21.577 [main] DEBUG com.msc.ucsc.readDefinitionFile - value found > returnValue: API version
+2021-06-12 03:46:56.712 [main] DEBUG com.msc.ucsc.readDefinitionFile - Entered to the method readFile() 
+2021-06-12 03:46:56.715 [main] DEBUG com.msc.ucsc.readDefinitionFile - Entered try catch 
+2021-06-12 03:46:56.718 [main] DEBUG com.msc.ucsc.readDefinitionFile - Entered for loop 
+2021-06-12 03:48:23.945 [main] DEBUG com.msc.ucsc.readDefinitionFile - Entered to the method readFile() 
+2021-06-12 03:48:23.948 [main] DEBUG com.msc.ucsc.readDefinitionFile - Entered try catch 
+2021-06-12 03:48:23.951 [main] DEBUG com.msc.ucsc.readDefinitionFile - Entered for loop 
+2021-06-12 03:49:49.391 [main] DEBUG com.msc.ucsc.readDefinitionFile - Entered to the method readFile() 
+2021-06-12 03:49:49.394 [main] DEBUG com.msc.ucsc.readDefinitionFile - Entered try catch 
+2021-06-12 03:49:49.396 [main] DEBUG com.msc.ucsc.readDefinitionFile - Entered for loop 
+2021-06-12 03:49:49.396 [main] DEBUG com.msc.ucsc.readDefinitionFile - value Not found > java.lang.NullPointerException

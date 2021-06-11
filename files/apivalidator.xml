@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<apidef>
+    <GET>
+        <method>GET</method>
+        <name>API name</name>
+        <version>API version</version>
+    </GET>
+    <POST>
+        <method>POST</method>
+        <name>API name</name>
+        <version>API version</version>
+    </POST>
+</apidef>
