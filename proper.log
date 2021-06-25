@@ -1,39 +1,184 @@
-2021-06-12 03:23:32.497 [main] INFO  jdk.jfr.internal.tool.Main - entered to the method ------------ 
-2021-06-12 03:25:21.462 [main] INFO  jdk.jfr.internal.tool.Main - entered to the method ------------ 
-2021-06-12 03:25:21.464 [main] DEBUG jdk.jfr.internal.tool.Main - entered to the method ------------ 
-2021-06-12 03:25:57.665 [main] INFO  jdk.jfr.internal.tool.Main - entered to the method ------------ 
-2021-06-12 03:25:57.668 [main] DEBUG jdk.jfr.internal.tool.Main - entered to the method ------------ 
-2021-06-12 03:32:31.062 [main] INFO  com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
-2021-06-12 03:32:31.064 [main] DEBUG com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
-2021-06-12 03:33:05.629 [main] INFO  com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
-2021-06-12 03:33:05.632 [main] DEBUG com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
-2021-06-12 03:33:49.835 [main] INFO  com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
-2021-06-12 03:33:49.838 [main] DEBUG com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
-2021-06-12 03:33:49.842 [main] INFO  com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
-2021-06-12 03:33:49.842 [main] DEBUG com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
-2021-06-12 03:34:00.801 [main] INFO  com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
-2021-06-12 03:34:00.803 [main] DEBUG com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
-2021-06-12 03:34:19.882 [main] INFO  com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
-2021-06-12 03:34:40.433 [main] DEBUG com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
-2021-06-12 03:36:05.373 [main] INFO  com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
-2021-06-12 03:36:05.376 [main] DEBUG com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
-2021-06-12 03:36:05.380 [main] INFO  com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
-2021-06-12 03:36:05.380 [main] DEBUG com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
-2021-06-12 03:39:27.668 [main] INFO  com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
-2021-06-12 03:39:27.671 [main] DEBUG com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
-2021-06-12 03:39:27.674 [main] INFO  com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
-2021-06-12 03:39:27.674 [main] DEBUG com.msc.ucsc.readDefinitionFile - entered to the method ------------ 
-2021-06-12 03:46:21.571 [main] DEBUG com.msc.ucsc.readDefinitionFile - Entered to the method readFile() 
-2021-06-12 03:46:21.573 [main] DEBUG com.msc.ucsc.readDefinitionFile - Entered try catch 
-2021-06-12 03:46:21.576 [main] DEBUG com.msc.ucsc.readDefinitionFile - Entered for loop 
-2021-06-12 03:46:21.577 [main] DEBUG com.msc.ucsc.readDefinitionFile - value found > returnValue: API version
-2021-06-12 03:46:56.712 [main] DEBUG com.msc.ucsc.readDefinitionFile - Entered to the method readFile() 
-2021-06-12 03:46:56.715 [main] DEBUG com.msc.ucsc.readDefinitionFile - Entered try catch 
-2021-06-12 03:46:56.718 [main] DEBUG com.msc.ucsc.readDefinitionFile - Entered for loop 
-2021-06-12 03:48:23.945 [main] DEBUG com.msc.ucsc.readDefinitionFile - Entered to the method readFile() 
-2021-06-12 03:48:23.948 [main] DEBUG com.msc.ucsc.readDefinitionFile - Entered try catch 
-2021-06-12 03:48:23.951 [main] DEBUG com.msc.ucsc.readDefinitionFile - Entered for loop 
-2021-06-12 03:49:49.391 [main] DEBUG com.msc.ucsc.readDefinitionFile - Entered to the method readFile() 
-2021-06-12 03:49:49.394 [main] DEBUG com.msc.ucsc.readDefinitionFile - Entered try catch 
-2021-06-12 03:49:49.396 [main] DEBUG com.msc.ucsc.readDefinitionFile - Entered for loop 
-2021-06-12 03:49:49.396 [main] DEBUG com.msc.ucsc.readDefinitionFile - value Not found > java.lang.NullPointerException
+2021-06-26 01:33:53.706 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 01:33:53.707 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 01:33:53.707 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 01:33:53.803 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 01:34:06.880 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 01:34:06.882 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 01:34:06.882 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 01:34:06.988 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 01:34:57.698 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 01:34:57.699 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 01:34:57.699 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 01:34:57.862 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 01:35:14.322 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 01:35:14.324 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 01:35:14.324 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 01:35:14.482 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 01:36:26.099 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 01:36:26.101 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 01:36:26.101 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 01:36:26.199 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 01:37:40.014 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 01:37:40.015 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 01:37:40.016 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 01:37:40.120 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 01:38:17.784 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 01:38:17.786 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 01:38:17.786 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 01:38:17.881 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 01:39:24.579 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 01:39:24.581 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 01:39:24.581 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 01:39:24.688 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 01:39:47.990 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 01:39:47.992 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 01:39:47.992 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 01:39:48.088 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 01:39:56.567 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 01:39:56.568 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 01:39:56.568 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 01:39:56.671 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 01:44:54.853 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 01:44:54.855 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 01:44:54.855 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 01:44:55.022 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 01:46:03.081 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 01:46:03.082 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 01:46:03.082 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 01:46:03.257 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 01:46:32.363 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 01:46:32.365 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 01:46:32.365 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 01:46:32.532 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 01:48:33.933 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 01:48:33.934 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 01:48:33.934 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 01:48:34.096 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 01:48:43.409 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 01:48:43.410 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 01:48:43.410 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 01:48:43.567 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 01:50:01.458 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 01:50:01.459 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 01:50:01.460 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 01:50:37.899 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 01:50:37.901 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 01:50:37.901 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 01:51:22.978 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 01:51:22.979 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 01:51:22.979 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 01:51:23.145 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 01:51:49.128 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 01:51:49.130 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 01:51:49.130 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 01:51:49.289 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 01:51:59.071 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 01:51:59.073 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 01:51:59.073 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 01:51:59.250 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 01:52:16.302 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 01:52:16.303 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 01:52:16.304 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 01:52:16.467 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 01:52:45.162 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 01:52:45.164 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 01:52:45.164 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 01:52:45.350 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 01:52:56.502 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 01:52:56.504 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 01:52:56.504 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 01:52:56.670 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 01:53:17.896 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 01:53:17.898 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 01:53:17.898 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 01:53:18.067 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 01:54:18.807 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 01:54:18.809 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 01:54:18.809 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 01:54:19.003 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 01:54:31.551 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 01:54:31.553 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 01:54:31.553 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 01:54:31.728 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 01:54:44.983 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 01:54:44.985 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 01:54:44.985 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 01:54:45.182 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 01:55:33.783 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 01:55:33.786 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 01:55:33.787 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 01:55:33.961 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 01:55:43.146 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 01:55:43.148 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 01:55:43.148 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 01:55:43.345 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 01:56:53.532 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 01:56:53.533 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 01:56:53.533 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 01:56:53.701 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 01:57:09.451 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 01:57:09.452 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 01:57:09.452 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 01:57:09.622 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 01:57:27.041 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 01:57:27.043 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 01:57:27.043 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 01:57:27.213 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 01:58:40.638 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 01:58:40.641 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 01:58:40.641 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 01:58:40.821 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 02:01:17.268 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 02:01:17.270 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 02:01:17.270 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 02:01:17.448 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 02:02:02.755 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 02:02:02.757 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 02:02:02.757 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 02:02:02.936 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 02:03:18.042 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 02:03:18.044 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 02:03:18.044 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 02:03:18.213 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 02:06:43.113 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 02:06:43.115 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 02:06:43.115 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 02:06:43.285 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 02:07:09.405 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 02:07:09.406 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 02:07:09.406 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 02:07:09.594 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 02:07:35.709 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 02:07:35.710 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 02:07:35.710 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 02:07:35.877 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 02:07:45.436 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 02:07:45.437 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 02:07:45.437 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 02:07:45.603 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 02:08:07.292 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 02:08:07.293 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 02:08:07.294 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 02:08:07.466 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 02:08:10.888 [AWT-EventQueue-1] DEBUG com.msc.ucsc.guiFrame - Adding the csv file save directory path
+2021-06-26 02:08:16.817 [AWT-EventQueue-1] DEBUG com.msc.ucsc.guiFrame - User selected the path and sending to add the csv file save directory path
+2021-06-26 02:08:16.817 [AWT-EventQueue-1] DEBUG com.msc.ucsc.guiFrame - Sending data to save output file path
+2021-06-26 02:08:16.817 [AWT-EventQueue-1] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 02:08:16.817 [AWT-EventQueue-1] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/Office/automationt/gitlab/new/msc/src/test/output.csv
+2021-06-26 02:08:16.817 [AWT-EventQueue-1] DEBUG com.msc.ucsc.guiFrame - Completed Sending data to save output file path
+2021-06-26 02:08:16.817 [AWT-EventQueue-1] DEBUG com.msc.ucsc.guiFrame - Displaying message as output file path
+2021-06-26 02:08:54.739 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 02:08:54.741 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 02:08:54.741 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 02:08:54.907 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 02:09:23.234 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 02:09:23.236 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 02:09:23.236 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 02:09:23.419 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 02:09:26.400 [AWT-EventQueue-1] DEBUG com.msc.ucsc.guiFrame - Adding the csv file save directory path
+2021-06-26 02:09:29.025 [AWT-EventQueue-1] DEBUG com.msc.ucsc.guiFrame - User selected the path and sending to add the csv file save directory path
+2021-06-26 02:09:29.026 [AWT-EventQueue-1] DEBUG com.msc.ucsc.guiFrame - Sending data to save output file path
+2021-06-26 02:09:29.026 [AWT-EventQueue-1] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 02:09:29.026 [AWT-EventQueue-1] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/Office/automationt/gitlab/new/msc/src/output.csv
+2021-06-26 02:09:29.027 [AWT-EventQueue-1] DEBUG com.msc.ucsc.guiFrame - Completed Sending data to save output file path
+2021-06-26 02:09:29.027 [AWT-EventQueue-1] DEBUG com.msc.ucsc.guiFrame - Displaying message as output file path

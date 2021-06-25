@@ -1,0 +1,13 @@
+2021-06-26 02:04:34.289 [main] DEBUG com.msc.ucsc.runProject - ************ Start executing main method **********
+2021-06-26 02:04:34.291 [main] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 02:04:34.291 [main] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/output.csv
+2021-06-26 02:04:34.432 [main] DEBUG com.msc.ucsc.runProject - ************ Completed executing main method **********
+2021-06-26 02:05:27.263 [AWT-EventQueue-1] DEBUG com.msc.ucsc.guiFrame - Clicking and opening browser to navigate Swagger io URl 
+2021-06-26 02:05:27.333 [AWT-EventQueue-1] DEBUG com.msc.ucsc.guiFrame - Opened browser to navigate Swagger io URl 
+2021-06-26 02:05:49.846 [AWT-EventQueue-1] DEBUG com.msc.ucsc.guiFrame - Adding the csv file save directory path
+2021-06-26 02:05:52.611 [AWT-EventQueue-1] DEBUG com.msc.ucsc.guiFrame - User selected the path and sending to add the csv file save directory path
+2021-06-26 02:05:52.612 [AWT-EventQueue-1] DEBUG com.msc.ucsc.guiFrame - Sending data to save output file path
+2021-06-26 02:05:52.612 [AWT-EventQueue-1] DEBUG com.msc.ucsc.runProject - Setting up outputfilepath
+2021-06-26 02:05:52.613 [AWT-EventQueue-1] DEBUG com.msc.ucsc.runProject - Completed Setting up outputfilepath : /home/praveen/Desktop/Office/automationt/gitlab/new/msc/out/artifacts/msc_jar/files/output.csv
+2021-06-26 02:05:52.613 [AWT-EventQueue-1] DEBUG com.msc.ucsc.guiFrame - Completed Sending data to save output file path
+2021-06-26 02:05:52.614 [AWT-EventQueue-1] DEBUG com.msc.ucsc.guiFrame - Displaying message as output file path
